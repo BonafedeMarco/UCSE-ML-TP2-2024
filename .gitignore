@@ -166,3 +166,6 @@ cython_debug/
 /train
 /train-backup
 /validation
+
+# Submission CSVs
+*.csv
